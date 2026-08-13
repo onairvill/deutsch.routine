@@ -1,0 +1,11 @@
+<svg viewBox="0 0 400 330" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="330" rx="16" fill="#FFFFFF"/>
+  <g transform="translate(160,30)">
+    <rect width="48" height="48" rx="12" fill="#17150F"/>
+    <path d="M12 25 L20 33 L37 15" fill="none" stroke="#FFCB3D" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="200" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="26" letter-spacing="4" fill="#57523F">DEUTSCH</text>
+  <text x="200" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="42" letter-spacing="2" fill="#17150F">ROUTINE</text>
+  <rect x="140" y="206" width="120" height="4" rx="2" fill="#C8102E"/>
+  <text x="200" y="242" text-anchor="middle" font-family="Noto Sans CJK KR" font-size="15" fill="#57523F">매일 하는 독일어</text>
+</svg>

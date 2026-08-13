@@ -1,0 +1,13 @@
+{
+  "name": "Deutsch Routine",
+  "short_name": "Routine",
+  "description": "매일 하는 독일어 — 말하기·쓰기·듣기·읽기",
+  "start_url": "./deutsch-routine.html",
+  "display": "standalone",
+  "background_color": "#F6F6F3",
+  "theme_color": "#17150F",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
